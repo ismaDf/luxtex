@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ismaDf.github.io/luxtex/sitemap.xml
